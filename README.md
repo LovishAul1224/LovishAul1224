@@ -28,7 +28,6 @@
 I'm a final-year **Computer Science Engineering** student at Maharishi Markandeshwar University, Ambala, with a strong interest in **full-stack development** and **applied AI**. I like taking an idea from a blank file to a deployed, working product — recently that meant building an AI-powered resume analyzer end-to-end, from prompt design to live deployment.
 
 - 🎓 B.Tech CSE, Class of 2026 — CGPA 7.81
-- 💼 Worked on real-world Java problem-solving during my stint at **Contriverz**
 - 🧠 Core team member at **CodeX Community**, organizing tech events and coding contests
 - 📚 Currently deepening my skills in Data Science, ML, Deep Learning & NLP
 - ⚡ Fun fact: I'd rather debug a 2 AM production issue than leave it for tomorrow
@@ -140,20 +139,4 @@ Content-based movie recommender built on the **TMDB dataset**, returning accurat
 
 <br/>
 
-## 📈 Activity Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LovishAul1224&theme=tokyo-night&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📫 Let's connect — I'm always up for a good engineering conversation.
-
-<img src="https://komarev.com/ghpvc/?username=LovishAul1224&style=flat-square&color=2C9FF5" alt="profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
-
-</div>
