@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lovish%20Aul&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20clean%20full-stack%20software,%20one%20commit%20at%20a%20time&descAlignY=58&descSize=18"/>
 
+<br>
+
 <a href="https://linkedin.com/in/lovishaul">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -17,7 +19,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=2C9FF5&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer+%7C+React+%2B+FastAPI;Building+ResumeLens+%E2%80%94+AI+Resume+Analyzer;Always+shipping%2C+always+learning" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2C9FF5&center=true&vCenter=true&width=750&lines=AI+Engineer;Building+Production-Ready+LLM+Applications;RAG+%7C+LangChain+%7C+Vector+Databases;FastAPI+%7C+React+%7C+Python;Open+Source+Learner+%26+Builder" alt="Typing SVG"/>
 
 </div>
 
@@ -25,12 +27,24 @@
 
 ## 👋 About Me
 
-I'm a final-year **Computer Science Engineering** student at Maharishi Markandeshwar University, Ambala, with a strong interest in **full-stack development** and **applied AI**. I like taking an idea from a blank file to a deployed, working product — recently that meant building an AI-powered resume analyzer end-to-end, from prompt design to live deployment.
+I'm a final-year **Computer Science Engineering** student passionate about building **AI-powered software** and **production-ready LLM applications**.
 
-- 🎓 B.Tech CSE, Class of 2026 — CGPA 7.81
-- 🧠 Core team member at **CodeX Community**, organizing tech events and coding contests
-- 📚 Currently deepening my skills in Data Science, ML, Deep Learning & NLP
-- ⚡ Fun fact: I'd rather debug a 2 AM production issue than leave it for tomorrow
+I enjoy taking ideas from research papers to deployed products—combining **LLMs, Retrieval-Augmented Generation (RAG), vector databases, FastAPI, and modern frontend frameworks** to build intelligent applications.
+
+Currently I'm focused on:
+
+- 🤖 LLM Engineering
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔍 Vector Databases & Semantic Search
+- ⚡ FastAPI + React AI Applications
+- 📚 Deep Learning & NLP
+
+Outside AI, I enjoy solving DSA problems and building scalable full-stack applications.
+
+- 🎓 B.Tech CSE (2026) — CGPA **7.81**
+- 💻 Core Team Member — **CodeX Community**
+- 🚀 Actively building open-source AI projects
+- 🌱 Always learning new AI technologies
 
 <br/>
 
@@ -45,6 +59,24 @@ I'm a final-year **Computer Science Engineering** student at Maharishi Markandes
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
+**🤖 AI/LLM Engineering**
+
+
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E57E0?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/SentenceTransformers-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0096FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-16A085?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-2ECC71?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector_Search-8E44AD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+
+
 **Frontend**
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -57,6 +89,7 @@ I'm a final-year **Computer Science Engineering** student at Maharishi Markandes
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/LangServe-0A7EA4?style=flat-square"/> -->
 
 **Data & ML**
 
@@ -64,7 +97,6 @@ I'm a final-year **Computer Science Engineering** student at Maharishi Markandes
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 **Tools & Platforms**
 
@@ -86,7 +118,7 @@ I'm a final-year **Computer Science Engineering** student at Maharishi Markandes
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [ResumeLens — AI Resume Analyzer](https://github.com/LovishAul1224)
+### 🧠 [ResumeLens — AI Resume Analyzer](https://github.com/LovishAul1224/ResumeLensAI)
 Full-stack app that parses PDF/DOCX resumes and uses **Google's Gemini API** to generate an ATS score, section-by-section breakdown, and ranked improvement tips.
 
 - FastAPI backend with `pdfplumber` / `docx2txt` text extraction
@@ -100,14 +132,30 @@ Full-stack app that parses PDF/DOCX resumes and uses **Google's Gemini API** to 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [Movie Recommendation System](https://github.com/LovishAul1224)
-Content-based movie recommender built on the **TMDB dataset**, returning accurate related-title suggestions instantly.
+### 🤖 [RAGify a Production RAG System](https://github.com/LovishAul1224/Ragify)
 
-- Text-vectorization techniques for similarity scoring
-- Interactive **Streamlit** front-end for live search
-- Clean, locally-run recommendation pipeline
+Built an end-to-end Retrieval-Augmented Generation (RAG) application capable of answering questions from uploaded PDFs with semantic search.
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
+#### Features
+
+- PDF ingestion pipeline
+- Recursive text chunking
+- ChromaDB vector database
+- Sentence Transformer embeddings
+- LangChain retrieval
+- Similarity threshold filtering
+- OpenRouter LLM integration
+- Streamlit frontend
+- FastAPI backend
+- Optional web search fallback
+
+`Python`
+`LangChain`
+`ChromaDB`
+`FastAPI`
+`OpenRouter`
+`Streamlit`
+`RAG`
 
 </td>
 </tr>
